@@ -38,12 +38,11 @@ class Song
 bindind.pry
    else 
     
-   end
     
      
       
   
-  end
+
   
   
   
