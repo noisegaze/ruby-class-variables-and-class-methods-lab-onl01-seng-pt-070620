@@ -35,7 +35,7 @@ class Song
    @@genres.map do |styles|
      #binding.pry
   if !genre_count[style]
-bindind.pry
+    binding.pry
    else 
  end
  end 
