@@ -37,6 +37,9 @@ class Song
   if !genre_count[style]
 bindind.pry
    else 
+ end
+ end 
+ end 
     
     
      
