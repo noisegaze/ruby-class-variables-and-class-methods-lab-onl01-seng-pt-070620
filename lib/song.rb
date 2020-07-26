@@ -34,8 +34,7 @@ class Song
     genre_count = {}
    @@genres.map do |styles|
      #binding.pry
-    genre_count[styles]+=1 
-    if [styles] > 1 
+  if genre_count[style]
 
    else 
     
